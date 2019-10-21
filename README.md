@@ -1,1 +1,1 @@
-# landing_page
+# landing_page realizada con HTML, CSS y JS 
